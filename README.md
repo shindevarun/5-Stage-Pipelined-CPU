@@ -20,7 +20,7 @@ Lab2 builds a 64-bit ALU. This ALU can do the following operations while taking 
 - Bitwise A xor B
 - B bypass
 
-Additionally, it also produces 4 output flags to indicate when an operation results in a negative, zero, overflow, and carry-out.
+Additionally, it also produces 4 output flags to indicate when an operation results is a negative, zero, overflow, and carry-out.
 
 <img src="https://github.com/user-attachments/assets/f9deabd2-dc1e-4693-8dac-27e5a4238c55" alt="image" width="500"/> <br><br>
 
