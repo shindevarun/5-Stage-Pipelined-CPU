@@ -43,7 +43,7 @@ Lab3 builds a 64-bit single-cycle ARM processor. This processor pulls instructio
 
 Instruction and Data path:
 
-<img src="https://github.com/user-attachments/assets/fa6eefc8-bcab-4643-b45d-dfb738eb610d" alt="image" width="500"/> <br><br>
+<img src="https://github.com/user-attachments/assets/fa6eefc8-bcab-4643-b45d-dfb738eb610d" alt="image" width="800"/> <br><br>
 
 # Lab4 - 5-Stage Pipelined ARM CPU
 
