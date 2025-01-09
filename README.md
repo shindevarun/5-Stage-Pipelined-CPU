@@ -12,7 +12,7 @@ Lab1 builds a 32x64 register file (32, 64-bit registers). The registers are buil
 
 # Lab2 - Arithmetic Logic Unit (ALU)
 
-Lab2 builds a 64-bit ALU. This ALU can do the following operations while taking in 2 64-bit values, A & B:
+Lab2 builds a 64-bit ALU. This ALU can do the following operations while taking in 2 64-bit values, A, B:
 - A + B
 - A - B
 - Bitwise A & B
@@ -24,7 +24,29 @@ Additionally, it also produces 4 output flags to indicate when an operation resu
 
 <img src="https://github.com/user-attachments/assets/f9deabd2-dc1e-4693-8dac-27e5a4238c55" alt="image" width="500"/> <br><br>
 
-#Lab3 - Single-Cycle Processor
+# Lab3 - Single-Cycle ARM CPU
+
+Lab3 builds a 64-bit single-cycle ARM processor. This processor pulls instructions from instruction memory, decodes the instructions, and then executes those instructions using the register file and ALU built in the two previous labs. This processor is capable of executing the following instruction set:
+
+- ADDI (Adds a constant to a register value)
+- ADDS (Adds two register values and sets flags)
+- B (Adds a sign-extended Imm26 value to the program counter + 4 for branching)
+- B.LT (Updates program counter using flag register for branching)
+- CBZ (Updates program counter for branching using conditional logic)
+- LDUR (Loads a value from data memory into a register)
+- LSL (Logical shift left a register value)
+- LSR (Logical shift right a register value)
+- MUL (Multiplies 2 register values)
+- STUR (Stores a register value into data memory)
+- SUBS (Subtracts two register values and sets flags)
+
+
+Instruction and Data path:
+
+<img src="https://github.com/user-attachments/assets/fa6eefc8-bcab-4643-b45d-dfb738eb610d" alt="image" width="500"/> <br><br>
+
+# Lab4 - 5-Stage Pipelined ARM CPU
+
 
 
 
