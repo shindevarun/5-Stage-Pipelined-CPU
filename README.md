@@ -25,7 +25,10 @@ Lab2 builds a 64-bit ALU. This ALU can do the following operations while taking 
 
 Additionally, it also produces 4 output flags to indicate when an operation results is a negative, zero, overflow, and carry-out.
 
-<img src="https://github.com/user-attachments/assets/f9deabd2-dc1e-4693-8dac-27e5a4238c55" alt="image" width="500"/> <br><br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f9deabd2-dc1e-4693-8dac-27e5a4238c55" alt="image" width="500"/> <br><br>
+</div>
+
 
 # Lab3 - Single-Cycle ARM CPU
 
@@ -46,7 +49,10 @@ Lab3 builds a 64-bit single-cycle ARM processor. This processor pulls instructio
 
 Instruction and Data path:
 
-<img src="https://github.com/user-attachments/assets/fa6eefc8-bcab-4643-b45d-dfb738eb610d" alt="image" width="800"/> <br><br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fa6eefc8-bcab-4643-b45d-dfb738eb610d" alt="image" width="800"/> <br><br>
+</div>
+
 
 # Lab4 - 5-Stage Pipelined ARM CPU
 
@@ -54,7 +60,10 @@ Finally, Lab4 builds a 64-bit pipelined ARM processor. This allows us to introdu
 
 Pipelined CPU Schematic:
 
-<img src="https://github.com/user-attachments/assets/4273329e-400f-40e3-b129-73d92b60cb7b" alt="image" width="1400"/> <br><br><br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4273329e-400f-40e3-b129-73d92b60cb7b" alt="image" width="1400"/> <br><br><br>
+</div>
+
 
 
 
