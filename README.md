@@ -51,8 +51,11 @@ Finally, Lab4 builds a 64-bit pipelined ARM processor. This allows us to introdu
 
 Pipelined CPU Schematic:
 
-<img src="https://github.com/user-attachments/assets/4273329e-400f-40e3-b129-73d92b60cb7b" alt="image" width="1000"/> 
+<img src="https://github.com/user-attachments/assets/4273329e-400f-40e3-b129-73d92b60cb7b" alt="image" width="1400"/> <br><br><br>
 
+
+
+Project Collaborators: <a href="https://www.linkedin.com/in/shindevarun/" target="_blank">Varun Shinde</a>, <a href="https://www.linkedin.com/in/colby-chan-03789b207/" target="_blank">Colby Chan</a>
 
 
 
